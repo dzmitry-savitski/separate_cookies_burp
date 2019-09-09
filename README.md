@@ -9,3 +9,8 @@ Request Header Or Cookie Too Large
 
 ## Solution:
 Create a separate header for each cookie
+
+## Installation:
+ - Go to Extender > Extensions > Add
+ - Choose "Extension type" python and load ```separate_cookie_headers.py```
+ 
